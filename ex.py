@@ -2,7 +2,7 @@ import zipfile
 import os
 
 ARCHIVE_PATH = r"path\archive.zip"
-FILE_INSIDE = "large_file.txt"
+FILE_INSIDE = "file.txt"
 OUTPUT_PATH = r"path\current_chunk.txt"
 
 # on default 500mb
